@@ -1,0 +1,7 @@
+name: homework_1
+version: '1.0-SNAPSHOT'
+main: me.min2st5ry.homework_1.Homework_1
+api-version: '1.19'
+authors: [ min2st5ry, janggyumin ]
+description: janggyumin sibalom
+website: hyukgame.netlify.app
