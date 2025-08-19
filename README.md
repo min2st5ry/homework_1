@@ -1,12 +1,7 @@
 # homework_1
 자바 플러그인 1일차
 
-This is an H1
-=============
+2025.08.18 일, 만든 간단한 자바 플러그인
 
-This is an H2
--------------
-
-> This is a first blockqute
-> > This is a second blockqute
-> > > This is a third blockqute
+플레이어가 서버에 참여했을때 닉네임이 'min2st5ry' 이라면 '마스다' 를 출력,
+플렝이어가 서버에 참여했을때 닉네임이 'min2st5ry' 가 아니라면 '그냥 플레이어다' 출력
